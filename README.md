@@ -1,1 +1,1 @@
-#Air quality plotting from data gathered from ilmatieteenlaitos.fi
+Air quality plotting from data gathered from ilmatieteenlaitos.fi
